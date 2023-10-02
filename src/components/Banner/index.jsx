@@ -128,7 +128,7 @@ const Banner = () => {
             className="banner__subtitulo--destaque"
             style={{ color: "black" }}
           >
-            Programming
+            Alura
           </span>
           <span
             className="banner__subtitulo--destaque"
